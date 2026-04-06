@@ -1004,7 +1004,7 @@ body{background:var(--bg);color:var(--white);font-family:'Barlow',sans-serif;fon
 // ═══════════════════════════════════════════
 // CONFIG — xAI API
 // ═══════════════════════════════════════════
-const XAI_KEY = 'PASTE_YOUR_NEW_XAI_KEY_HERE';
+const XAI_KEY = 'xai-YMaX1O4Fc2mtsgR6PrMyeelrTurBlknIEr5AUKQZm6flNkzk6w1nD1DETaNKjYMHBH4ouazousi7lXFT';
 const XAI_URL = 'https://api.x.ai/v1/chat/completions';
 const XAI_MODEL = 'grok-2-latest';
 
